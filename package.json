@@ -1,0 +1,35 @@
+{
+  "name": "o-auth-gt",
+  "version": "1.0.0",
+  "description": "third party authentication.",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -d --declarationDir dist"
+  },
+  "author": "Kirtan Patel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "google-auth-library": "^9.14.1",
+    "twitter-api-v2": "^1.17.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
