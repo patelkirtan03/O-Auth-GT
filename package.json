@@ -1,6 +1,6 @@
 {
-  "name": "o-auth-gt",
-  "version": "1.0.0",
+  "name": "o-auth-tg",
+  "version": "1.0.3",
   "description": "third party authentication.",
   "main": "dist/main.js",
   "scripts": {
@@ -23,11 +23,11 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/patelkirtan03/O-Auth-GT"
   },
-  "homepage": "",
+  "homepage": "https://github.com/patelkirtan03/O-Auth-GT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/patelkirtan03/O-Auth-GT/issues"
   },
   "publishConfig": {
     "access": "public"
